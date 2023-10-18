@@ -41,7 +41,7 @@
   "appium:app": "E:\\apk\\emicalc.apk"
 }
 ```     
-- Here ``` "appium:platformVersion": "12" ``` is android version which device i Connected as adb device and ``` "appium:app": "E:\\apk\\calculator.apk" ``` is location of downloaded apk file in my Computer.
+- Here ``` "appium:platformVersion": "12" ``` is android version which device i Connected as adb device and ``` "appium:app": "E:\\apk\\emicalc.apk" ``` is location of downloaded apk file in my Computer.
 - Click Save and Click Start Session
   
 - Clone this project
