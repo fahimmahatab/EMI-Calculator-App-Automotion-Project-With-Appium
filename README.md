@@ -48,7 +48,6 @@
 - follow this instruction:
 - ```  build.gradle ```
 - ``` open it on Intellij IDE as project ```
-- ``` click Run Button ```
   
 ## Open Terminal Follow that Command:
 - ``` gradle clean test ```
