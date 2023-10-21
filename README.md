@@ -1,4 +1,4 @@
-# EMI-Calculator-App-Automotion-Project-With-Selenium-Appium
+# EMI-Calculator-App-Automotion-Project-With-Appium
 ## About this app
 - EMI Calculator is a simple loan calculation tool that helps the user to quickly calculate EMI and view payment schedule. Use this Loan EMI Calculator to calculate your EMI (Equated Monthly Instalment), plan your loan repayment in an effective way. You can also easy to compare two loans by using Loan EMI Calculator.
 ## About this project:
